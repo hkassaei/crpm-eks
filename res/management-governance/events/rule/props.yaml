@@ -21,7 +21,7 @@ eventPattern:
     referenceType:
       - 'branch'
     referenceName:
-      - 'master'
+      - 'main'
 
 # Documentation: http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-events-rule.html#cfn-events-rule-name
 # Type: string

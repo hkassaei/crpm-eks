@@ -2,7 +2,7 @@ import boto3, json, shutil, urllib3, zipfile
 
 http = urllib3.PoolManager()
 
-GITHUB_ACCOUNT_NAME = 'shi'
+GITHUB_ACCOUNT_NAME = 'hkassaei'
 GITHUB_REPOSITORY_NAME = 'crpm-eks'
 
 def lambda_handler(event, context):
